@@ -1,24 +1,11 @@
-body {
-  padding-top: 70px;
-}
-
-em {
-  font-size: 14px;
-}
+body {padding-top: 70px;}
+em {font-size: 14px;}
 
 .jumbotron {
   color: #2C3E50;
   background-color: #ECF0F1;
 }
 
-.navbar-inverse {
-  background-color: #2C3E50;
-}
-
-.navbar-inverse .navbar-nav>li>a {
-  color: #FFFFFF;
-}
-
-.navbar-inverse .navbar-brand {
-  color: #FFFFFF;
-}
+.navbar-inverse {background-color: #2C3E50;}
+.navbar-inverse .navbar-nav>li>a {color: #FFFFFF;}
+.navbar-inverse .navbar-brand {color: #FFFFFF;}
