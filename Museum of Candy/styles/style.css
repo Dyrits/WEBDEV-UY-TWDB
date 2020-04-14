@@ -21,10 +21,10 @@ body {
 .scrolled {
   background-color: #E4bEE0;
   border-bottom: 1px solid rgba(234, 28, 44, 0.2);
-  transition: all 0.2s;
+  transition: background 0.5s;
 }
 
-section {margin-top: 100px;}
+section {margin-bottom: 100px;}
 
 header span {color: #EA1C2C;}
 
